@@ -1,7 +1,1 @@
-google-colab @ 
-file:///colabtools/dist/google-colab-1.0.0.tar.gz 
-ipykernel==4.10.1 ipython==5.5.0 
-ipython-genutils==0.2.0 
-matplotlib-inline==0.1.2 
-matplotlib-venn==0.11.6 notebook==5.3.1 
-pandas==1.1.5 pandas-datareader==0.9.0
+google-colab
